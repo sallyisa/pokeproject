@@ -1,6 +1,8 @@
 # Pokemon Project
 
-Requires pyspark to run the `pokemon-spark-sally-isaacoff.ipynb` notebook.
+Requires pyspark to run the `pokemon-spark-sally-isaacoff.ipynb` notebook. Bonus questions are addressed at the bottom of the notebook :)
+
+The output file is in the `pokemon_out_csv/` directory.	
 
 To run the streamlit dashboard locally: 
      
